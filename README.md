@@ -44,7 +44,7 @@ O ecossistema do Gaia é dividido em duas fases modulares e sequenciais de varre
 Certifique-se de ter o *Python 3.x* instalado em seu sistema operacional (como Arch Linux, Debian ou Windows).
 
 ### 1. Preparar o Repositório
-git clone
+git clone https://github.com/powersofgamers/-Gaia---Mapeamento-de-Telemetria-na-Internet
 mkdir -p ~/labs/gaia
 cd ~/labs/gaia
 # Salve o código principal como gaia.py nesta pasta
